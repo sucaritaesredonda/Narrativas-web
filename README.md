@@ -5,3 +5,5 @@ El internet nos ha sumergido en un mundo inundado de información, imágenes, so
 
 El objetivo de este taller fue explorar el lenguaje y el texto como material de experimentación en el contexto digital. Los participantes activaron sus archivos y memorias a través de la escritura en formas no convencionales, haciendo uso de herramientas digitales para crear espacios en la web. Se estudiaron referentes teóricos y artísticos del Net Art y la literatura pensada para internet. Cada participante podrá crear una pieza de texto, Net Art u obra híbrida, explorando los géneros de lo autobiográfico o la autoficción. Se usó principalmente la herramienta Twine, que permite crear narrativas interactivas no lineales para la web.
 
+<h1> Link: <h1/>
+https://sucaritaesredonda.github.io/Narrativas-web/
